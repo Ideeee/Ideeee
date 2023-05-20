@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Idee
-- 👀 I’m interested in Software Development and Cloud Engineering
-- 🌱 I’m currently learning Back End Development with Javascript, Nodejs & Express.
-- 💞️ I’m very very open to collaborating on related projects
+- 👋 Hi, I’m Idara
+- 👀 I am a Software Developer
+- 🌱 I work mainly on Back End Development with Javascript, Nodejs & Express or PHP/Laravel
+- 💞️ I’m very open to collaborating on related projects and connecting with fellow techies
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/idara-cecilia-umana-97b5b31a2
 - I look forward to meeting you🌞
 
